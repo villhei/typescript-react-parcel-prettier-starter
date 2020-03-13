@@ -17,8 +17,9 @@ npm start
 ```
 
 Run the linter
+
 ```
-npm lint
+npm run lint
 ```
 
 Run the tests
@@ -28,6 +29,7 @@ npm test
 ```
 
 Build a distributable bundle
+
 ```
-npm build
+npm run build
 ```
